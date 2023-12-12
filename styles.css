@@ -1,0 +1,9 @@
+#centerPage {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#centerPage > div {
+  width: 50%;
+}
